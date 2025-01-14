@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ab757d55-cdf3-4ef2-8a55-9b0393a90672)# Gloabl-Restaurant-Data-Analysis
+# Gloabl-Restaurant-Data-Analysis
 This project analyzes global restaurant data using Power BI and Python. It features dashboards and notebooks to explore ratings, cuisines, price ranges, and delivery trends. The structured dataset and visual insights make it a powerful tool for understanding restaurant industry dynamics.
 
 # 📌 Project Objectives
@@ -96,60 +96,75 @@ This repository contains a detailed analysis of global restaurant data, focusing
 
 📌 Project Objectives
 📊 Uncover Market Trends: Analyze popular cuisines, city distributions, and price trends.
-📈 Enhance Decision-Making: Provide actionable insights for stakeholders in the restaurant industry.
-😊 Optimize Customer Experience: Focus on ratings, delivery services, and table booking preferences.
-📍 Visualize Data: Transform raw data into intuitive dashboards for easy interpretation.
-📂 Dataset Overview
-Entries: 9,551 records
-Attributes: Includes restaurant names, cuisines, city, average cost, online delivery availability, table booking, ratings, and votes.
-Source: Kaggle - Restaurant Dataset
-Sample Attributes:
 
+📈 Enhance Decision-Making: Provide actionable insights for stakeholders in the restaurant industry.
+
+😊 Optimize Customer Experience: Focus on ratings, delivery services, and table booking preferences.
+
+📍 Visualize Data: Transform raw data into intuitive dashboards for easy interpretation.
+
+# 📂 Dataset Overview
+
+* Entries: 9,551 records
+* Attributes: Includes restaurant names, cuisines, city, average cost, online delivery availability, table booking, ratings, and votes.
+* Source: Kaggle - Restaurant Dataset
+
+*  Sample Attributes:
 Restaurant Details: Name, address, city, location coordinates.
 Customer Feedback: Ratings (0-5 scale), votes, and review text.
 Operational Features: Online delivery, table booking availability.
 Cost Metrics: Average cost for two people.
-⚙️ Tools & Technologies
-Python: For data cleaning and exploratory data analysis.
-Libraries: Pandas, Matplotlib, Seaborn, NumPy.
-Power BI: For advanced visualization and dashboard creation.
-Google Colab: Cloud-based Python development for data preprocessing.
-CSV Files: Raw dataset format for analysis.
-🚀 Methodology
-Data Cleaning:
+
+# ⚙️ Tools & Technologies
+
+* Python: For data cleaning and exploratory data analysis.
+* Libraries: Pandas, Matplotlib, Seaborn, NumPy.
+* Power BI: For advanced visualization and dashboard creation.
+* Google Colab: Cloud-based Python development for data preprocessing.
+* CSV Files: Raw dataset format for analysis.
+
+# 🚀 Methodology
+
+* Data Cleaning:
 
 Handled missing values and duplicates.
 Standardized price ranges and currencies.
 Validated ratings and votes for consistency.
-Exploratory Data Analysis (EDA):
+
+* Exploratory Data Analysis (EDA):
 
 Identified popular cuisines and city-wise trends.
 Analyzed pricing structures and operational features.
 Used Python libraries for initial insights.
 Dashboard Development:
 
-Created interactive dashboards in Power BI.
+* Created interactive dashboards in Power BI.
+
 Visualized restaurant distribution, service trends, and geographical patterns.
 Enabled filtering by cuisines, cities, and ratings.
-🔍 Key Insights
-🎯 Cuisine Popularity
+
+# 🔍 Key Insights
+
+* 🎯 Cuisine Popularity
 North Indian cuisine is the most popular, covering 43.43% of the dataset.
 Fusion cuisines, such as North Indian-Chinese, account for 23.71%, reflecting growing diversity in customer preferences.
-🏙️ City-Level Trends
+
+* 🏙️ City-Level Trends
 New Delhi has the highest number of restaurants (5,470), followed by Gurgaon (1,120) and Noida (1,080).
 Smaller cities like Faridabad are underserved markets, presenting growth opportunities.
-💰 Pricing Trends
+
+* 💰 Pricing Trends
 Affordable dining dominates, with most restaurants falling in lower price categories.
 Premium dining options (<25%) represent an untapped market for high-income customers.
-🚚 Service Trends
+
+* 🚚 Service Trends
 Only 25.69% of restaurants offer online delivery, highlighting a gap in digital service adoption.
 Table booking services are also underutilized.
-📊 Dashboard Snapshots
-1️⃣ Cuisine Popularity
 
-2️⃣ City-Wise Distribution
+# 📊 Dashboard Snapshot
 
-3️⃣ Service Trends
+![Screenshot 2025-01-14 092150](https://github.com/user-attachments/assets/70bad2c3-5355-43be-8972-310aba07647b)
+
 
 # 🏁 Conclusion
 
