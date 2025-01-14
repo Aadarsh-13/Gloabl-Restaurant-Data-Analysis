@@ -75,7 +75,7 @@ Premium dining options (<25%) represent an untapped market for high-income custo
 Only 25.69% of restaurants offer online delivery, highlighting a gap in digital service adoption.
 Table booking services are also underutilized.
 
-# 📊 Dashboard Snapshots
+# 📊 Dashboard Snapshot
 
 ![image](https://github.com/user-attachments/assets/daf98b84-19ff-4b5a-84ef-0dfe635552ec)
 
