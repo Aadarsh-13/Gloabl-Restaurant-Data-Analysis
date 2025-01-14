@@ -154,21 +154,29 @@ Table booking services are also underutilized.
 # 🏁 Conclusion
 
 * Highlighting the dominance of North Indian cuisine globally and identifying growth opportunities in fusion cuisines.
+  
 * Revealing that New Delhi is the central hub for restaurants, while smaller cities like Faridabad represent untapped potential.
+
 * Identifying gaps in service adoption, such as online delivery and table booking, that restaurants can address to meet customer demands.
+
 * Showing a skew toward affordable dining options and uncovering potential for premium dining markets.
+
 * The creation of a Power BI dashboard further enhanced the accessibility of these insights, allowing stakeholders to explore data dynamically and intuitively.
 
 # ⚠️ Challenges Faced
+
 1. Data Quality Issues:
-The dataset contained missing values and duplicates that required significant cleaning efforts.
-Inconsistent entries, especially in pricing and currency, needed standardization.
+The dataset contained missing values and duplicates that required significant cleaning efforts.Inconsistent entries, especially in pricing and currency, needed standardization.
+
 2. Subjectivity in Ratings:
 Customer ratings and reviews were subjective, introducing potential biases in the analysis.
+
 3. Static Dataset:
 The dataset represented a snapshot in time, limiting the ability to analyze ongoing trends or seasonal fluctuations.
+
 4. Tool Integration:
 Ensuring smooth integration between Python-processed data and Power BI was initially challenging, requiring multiple iterations for compatibility.
+
 5. Geographical Limitations:
 The dataset primarily covered metropolitan areas, leaving rural and suburban trends unexplored.
 
